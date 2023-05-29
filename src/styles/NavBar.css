@@ -1,0 +1,17 @@
+.toggle {
+    border: none;
+}
+
+/* .navbar-toggler {
+    border: none;
+} */
+
+.navbar-toggler-icon {
+    width: 15px;
+    height: 15px;
+    /* padding: 2px 2px 2px 2px; */
+}
+
+.navbar {
+ background-color: #357ad7;
+}

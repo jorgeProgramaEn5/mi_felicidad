@@ -1,0 +1,19 @@
+.container__texto {
+    display: flex;
+    justify-content: center;
+}
+
+.container__texto > div:nth-child(1) {
+    max-width: 400px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+}
+
+@media only screen and (max-width: 968px) {
+    .container__texto > div:nth-child(1) {
+        padding: 10px;
+        font-size: small;
+    }
+
+}
