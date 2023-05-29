@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mi_felicidad/static/css/main.000c282f.css",
-    "main.js": "/mi_felicidad/static/js/main.06b4f7e6.js",
+    "main.css": "/mi_felicidad/static/css/main.b2e232d6.css",
+    "main.js": "/mi_felicidad/static/js/main.1488dc58.js",
     "static/media/baner_1.png": "/mi_felicidad/static/media/baner_1.939017c76580af377639.png",
     "static/media/baner_2.png": "/mi_felicidad/static/media/baner_2.c91f5134f9826e379031.png",
     "static/media/baner_3.png": "/mi_felicidad/static/media/baner_3.c1ab58b60498fbe02975.png",
@@ -9,12 +9,16 @@
     "static/media/pinker_500x450.png": "/mi_felicidad/static/media/pinker_500x450.5117e1e0372dad86d1f1.png",
     "static/media/socrates_500x450.png": "/mi_felicidad/static/media/socrates_500x450.75aead82af6131c32dd3.png",
     "static/media/haidt_500x450.png": "/mi_felicidad/static/media/haidt_500x450.8d864328a436f06470a7.png",
+    "static/media/instagram.svg": "/mi_felicidad/static/media/instagram.f9d228c1cbb5edc0706aebd672fb769e.svg",
+    "static/media/twitter.svg": "/mi_felicidad/static/media/twitter.f573afd4ee70524f8c1816b085f94583.svg",
+    "static/media/linkedin.svg": "/mi_felicidad/static/media/linkedin.e1d176e65b3271b94f634a1a094bd9f6.svg",
     "index.html": "/mi_felicidad/index.html",
-    "main.000c282f.css.map": "/mi_felicidad/static/css/main.000c282f.css.map",
-    "main.06b4f7e6.js.map": "/mi_felicidad/static/js/main.06b4f7e6.js.map"
+    "static/media/facebook.svg": "/mi_felicidad/static/media/facebook.34082cd87ee9398b19edd541204c2227.svg",
+    "main.b2e232d6.css.map": "/mi_felicidad/static/css/main.b2e232d6.css.map",
+    "main.1488dc58.js.map": "/mi_felicidad/static/js/main.1488dc58.js.map"
   },
   "entrypoints": [
-    "static/css/main.000c282f.css",
-    "static/js/main.06b4f7e6.js"
+    "static/css/main.b2e232d6.css",
+    "static/js/main.1488dc58.js"
   ]
 }
