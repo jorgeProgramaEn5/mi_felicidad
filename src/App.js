@@ -1,6 +1,6 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Navbar, Hero, ListCard, Texto } from "./Components";
+import { Navbar, Hero, ListCard, Texto, Footer } from "./Components";
 import "./styles/App.css"
 import { banner, } from './Constant';
 // import { socrates_500x450, pinker_500x450, haidt_500x450 } from './Assets';
@@ -14,7 +14,7 @@ function App() {
         <div className="row">
           <div className="col"><Navbar /></div>
         </div>
-        <div className="row">
+        <div className="row fixed_navbar">
           <div className="col"><Hero banners={ banner }/></div>
         </div>
         <div className="row">
@@ -22,6 +22,9 @@ function App() {
         </div>
         <div className="row d-flex">
           <div className="col-md-12"><ListCard /></div>
+        </div>
+        <div className="row">
+          <div className="col-md-12"><Footer /></div>
         </div>
       </div>
     </div>

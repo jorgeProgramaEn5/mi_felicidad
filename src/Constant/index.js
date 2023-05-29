@@ -1,4 +1,4 @@
-import { aristoteles_500x450, haidt_500x450, pinker_500x450, socrates_500x450, baner_1, baner_2, baner_3, } from '../Assets';
+import {instagram, twitter, facebook, linkedin, aristoteles_500x450, haidt_500x450, pinker_500x450, socrates_500x450, baner_1, baner_2, baner_3, } from '../Assets';
 
 
 export const banner = [
@@ -50,5 +50,28 @@ export const banner = [
       title: "Aristoteles",
       content:
         "A balance transfer credit card can save you a lot of money in interest charges.",
+    },
+  ];
+
+  export const socialMedia = [
+    {
+      id: "social-media-1",
+      icon: instagram,
+      link: "https://www.instagram.com/",
+    },
+    {
+      id: "social-media-2",
+      icon: facebook,
+      link: "https://www.facebook.com/",
+    },
+    {
+      id: "social-media-3",
+      icon: twitter,
+      link: "https://www.twitter.com/",
+    },
+    {
+      id: "social-media-4",
+      icon: linkedin,
+      link: "https://www.linkedin.com/",
     },
   ];

@@ -5,6 +5,10 @@ import socrates_500x450 from "./socrates_500x450.png";
 import baner_1 from "./baner_1.png";
 import baner_2 from "./baner_2.png";
 import baner_3 from "./baner_3.png";
+import facebook from "./facebook.svg";
+import linkedin from "./linkedin.svg";
+import instagram from "./instagram.svg";
+import twitter from "./twitter.svg";
 
 
 export {
@@ -15,4 +19,8 @@ export {
   baner_1,
   baner_2,
   baner_3,
+  facebook,
+  linkedin,
+  instagram,
+  twitter
 };

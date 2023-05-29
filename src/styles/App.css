@@ -14,3 +14,7 @@
     background: rgb(53,122,215);
     background: linear-gradient(183deg, rgba(53,122,215,1) 5%, rgba(69,92,159,1) 100%);   
 }
+
+.fixed_navbar {
+    margin-top: 56px;
+}

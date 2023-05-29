@@ -1,0 +1,32 @@
+.container_footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.container_footer .derechos {
+    display: flex;
+    max-width: 280px;
+    text-align: center;
+}
+
+.container_footer p {
+    color:aliceblue;
+    font-size: 20px;
+}
+
+.container_footer .media {
+    display: flex;
+    width: 150px;
+    justify-content: space-around;
+}
+
+@media only screen and (max-width: 968px) {
+    .container_footer p {
+        font-size: 15px;
+    }
+
+}

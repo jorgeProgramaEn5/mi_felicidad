@@ -8,8 +8,8 @@ import '../styles/NavBar.css'
 
 function NavScrollExample() {
   return (
-    <Navbar expand="lg">
-      <Container fluid>
+    <Navbar expand="lg" className='fixed-top'>
+      <Container fluid >
         <Navbar.Brand href="#">HAPPINESS</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" className='toggle' />
         <Navbar.Collapse id="navbarScroll">

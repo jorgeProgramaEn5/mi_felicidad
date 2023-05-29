@@ -14,4 +14,9 @@
 
 .navbar {
  background-color: #357ad7;
+ /* position: fixed;
+ top: 10;
+ left: 0;
+ right: 0;
+ z-index: 9999; */
 }
