@@ -9,18 +9,20 @@ import { banner, } from './Constant';
 
 function App() {
   return (
-    <div className="app container-fluid">
-      <div className="row">
-        <div className="col-md-12"><Navbar /></div>
-      </div>
-      <div className="row">
-        <div className="col-md-12"><Hero banners={ banner }/></div>
-      </div>
-      <div className="row">
-        <div className="col"><Texto /></div>
-      </div>
-      <div className="row d-flex">
-        <div className="col-md-12"><ListCard /></div>
+    <div className="app row">
+      <div className="container-fuid">
+        <div className="row">
+          <div className="col"><Navbar /></div>
+        </div>
+        <div className="row">
+          <div className="col"><Hero banners={ banner }/></div>
+        </div>
+        <div className="row">
+          <div className="col"><Texto /></div>
+        </div>
+        <div className="row d-flex">
+          <div className="col-md-12"><ListCard /></div>
+        </div>
       </div>
     </div>
   );
