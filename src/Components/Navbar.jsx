@@ -5,8 +5,10 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 // import NavDropdown from 'react-bootstrap/NavDropdown';
 import '../styles/NavBar.css'
+// import React, { useState } from 'react';   
 
-function NavScrollExample() {
+function NavScrollExample({searchValue, handleSearchChange  }) {
+
   return (
     <Navbar expand="lg" className='fixed-top'>
       <Container fluid >
@@ -40,6 +42,8 @@ function NavScrollExample() {
               placeholder="Search"
               className="me-2"
               aria-label="Search"
+              // defaultValue={searchValue}
+              onChange={handleSearchChange}
             />
             <Button variant="outline-success">Search</Button>
           </Form>
