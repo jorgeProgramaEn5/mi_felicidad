@@ -1,4 +1,8 @@
-.continer__listcard {
+.continer__listcard-child {
     display: flex;
     justify-content: center;
+}
+
+.container__listcard {
+    min-height: 400px;
 }

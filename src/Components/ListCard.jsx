@@ -7,9 +7,9 @@ import '../styles/ListCard.css'
 
 const ListCard = ({ targets }) => {
   return (
-    <div className='row'>
+    <div className='row container__listcard'>
         {targets.map((card)=>(
-          <div className='col-md-3 continer__listcard' key={card.id}> 
+          <div className='col-md-3 continer__listcard-child' key={card.id}> 
             <Card images={ card.img } title={card.title}/>
           </div>
         ))}
