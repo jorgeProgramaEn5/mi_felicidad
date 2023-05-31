@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mi_felicidad/static/css/main.0693899d.css",
+    "main.css": "/mi_felicidad/static/css/main.d076c388.css",
     "main.js": "/mi_felicidad/static/js/main.0590f9b8.js",
     "static/media/baner_1.png": "/mi_felicidad/static/media/baner_1.939017c76580af377639.png",
     "static/media/baner_2.png": "/mi_felicidad/static/media/baner_2.c91f5134f9826e379031.png",
@@ -14,11 +14,11 @@
     "static/media/linkedin.svg": "/mi_felicidad/static/media/linkedin.e1d176e65b3271b94f634a1a094bd9f6.svg",
     "index.html": "/mi_felicidad/index.html",
     "static/media/facebook.svg": "/mi_felicidad/static/media/facebook.34082cd87ee9398b19edd541204c2227.svg",
-    "main.0693899d.css.map": "/mi_felicidad/static/css/main.0693899d.css.map",
+    "main.d076c388.css.map": "/mi_felicidad/static/css/main.d076c388.css.map",
     "main.0590f9b8.js.map": "/mi_felicidad/static/js/main.0590f9b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0693899d.css",
+    "static/css/main.d076c388.css",
     "static/js/main.0590f9b8.js"
   ]
 }
