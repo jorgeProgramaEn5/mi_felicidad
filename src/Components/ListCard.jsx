@@ -24,7 +24,7 @@ const ListCard = ({ targets }) => {
     <div className='row container__listcard'>
         {targets.map((card)=>(
           <div className='col-md-3 continer__listcard-child' key={card.id}> 
-            <Card images={ card.img } title={card.title} showModalContent={()=> showModalContent(card.title, card.content)}/>
+            <Card images={ card.img } title={card.title} contentResumen={card.contentResumen} showModalContent={()=> showModalContent(card.title, card.content)}/>
           </div>
         ))}
 
@@ -35,8 +35,6 @@ const ListCard = ({ targets }) => {
           onHide={() => setModalShow(false)}
         />    
     </div>
-
-    
   )
 }
 

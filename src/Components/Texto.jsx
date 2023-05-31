@@ -6,10 +6,11 @@ function Texto() {
     <div className='container__texto'>
         <div >
             <p>
-                El concepto de felicidad ha sido abordados por grandes figuras
-                a lo largo de la histori. Filosofos, cientificos, politicos, etc, a de
-                distintas partes del mundo han dado su vision de lo que para ellos significa 
-                la felicidad.
+              A lo largo de la historia, grandes figuras han 
+              abordado el concepto de la felicidad. Filósofos, 
+              científicos, políticos y otros pensadores de 
+              distintas partes del mundo han expresado su visión 
+              sobre lo que este término significa para ellos.
             </p>
         </div>
     </div>

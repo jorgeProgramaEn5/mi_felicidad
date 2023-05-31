@@ -27,6 +27,10 @@ export const banner = [
       id: "0",
       img: socrates_500x450,
       title: "Socrates",
+      contentResumen:
+        `"Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+          Natus nulla commodi ae mollitia eligendi dicta consequuntur 
+          delectus, ut quas sequi soluta pariatur."`,
       content:
         `"Socrates dijo que la felicidad es una locura  En este ejemplo, 
         se modificó la función showModalContent para que reciba el id del 
@@ -43,6 +47,10 @@ export const banner = [
       id: "1",
       img: pinker_500x450,
       title: "Steven Pinker",
+      contentResumen:
+        `"Lorem ipsu dolor sit, amet consectetur adipisicing elit. 
+          Natus nulla commodi ae mollitia eligendi dicta consequuntur 
+          delectus, ut quas sequi soluta pariatur."`,
       content:
         `"Pinker dijo que la felicidad es una locura  En este ejemplo, 
         se modificó la función showModalContent para que reciba el id del 
@@ -59,6 +67,10 @@ export const banner = [
       id: "2",
       img: haidt_500x450,
       title: "J. Haidt",
+      contentResumen:
+        `"Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+          Natus nulla commodi ae mollitia eligendi dicta consequuntur 
+          delectus, ut quas sequi soluta pariatur."`,
       content:
         `"Haidit dijo que la felicidad es una locura  En este ejemplo, 
         se modificó la función showModalContent para que reciba el id del 
@@ -75,6 +87,10 @@ export const banner = [
       id: "3",
       img: aristoteles_500x450,
       title: "Aristoteles",
+      contentResumen:
+        `"Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+          Natus nulla commodi ae mollitia eligendi dicta consequuntur 
+          delectus, ut quas sequi soluta pariatur."`,
       content:
         `"Aristoteles dijo que la felicidad es una locura  En este ejemplo, 
         se modificó la función showModalContent para que reciba el id del 

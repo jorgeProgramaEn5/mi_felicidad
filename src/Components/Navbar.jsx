@@ -6,13 +6,14 @@ import Navbar from 'react-bootstrap/Navbar';
 // import NavDropdown from 'react-bootstrap/NavDropdown';
 import '../styles/NavBar.css'
 // import React, { useState } from 'react';   
+import { logo_happiness } from '../Assets';
 
 function NavScrollExample({searchValue, handleSearchChange  }) {
 
   return (
     <Navbar expand="lg" className='fixed-top'>
       <Container fluid >
-        <Navbar.Brand href="#">HAPPINESS</Navbar.Brand>
+        <Navbar.Brand href="#"><img src={logo_happiness} alt="logo" /></Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" className='toggle' />
         <Navbar.Collapse id="navbarScroll">
           <Nav

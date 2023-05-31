@@ -9,6 +9,7 @@ import facebook from "./facebook.svg";
 import linkedin from "./linkedin.svg";
 import instagram from "./instagram.svg";
 import twitter from "./twitter.svg";
+import logo_happiness from "./logo_happiness.png";
 
 
 export {
@@ -22,5 +23,6 @@ export {
   facebook,
   linkedin,
   instagram,
-  twitter
+  twitter,
+  logo_happiness
 };
