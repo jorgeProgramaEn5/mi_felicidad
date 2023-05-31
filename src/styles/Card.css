@@ -3,6 +3,7 @@
     box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.273);
     margin: 10px;
     max-width: 300px;
+    max-height: 270px;
     display: flex;
     align-items: center;
 }
