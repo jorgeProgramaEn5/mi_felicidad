@@ -28,28 +28,64 @@ export const banner = [
       img: socrates_500x450,
       title: "Socrates",
       content:
-        "The best credit cards offer some tantalizing combinations of promotions and prizes",
+        `"Socrates dijo que la felicidad es una locura  En este ejemplo, 
+        se modificó la función showModalContent para que reciba el id del 
+        elemento card que se está mostrando. Luego, se pasó esta información 
+        al controlador de eventos showModalContent utilizando una función de 
+        flecha que llama a showModalContent con el id correspondiente cuando se 
+        presiona el botón. De esta manera,cada vez que se presiona el botón de un 
+        elemento card, se muestra en la consola el id correspondiente. Puedes adaptar 
+        este ejemplo a tus necesidades específicas para mostrar cualquier otra 
+        información relevante en la consola o en cualquier otro lugar de tu 
+        aplicación de React"`,
     },
     {
       id: "1",
       img: pinker_500x450,
       title: "Steven Pinker",
       content:
-        "We take proactive steps make sure your information and transactions are secure.",
+        `"Pinker dijo que la felicidad es una locura  En este ejemplo, 
+        se modificó la función showModalContent para que reciba el id del 
+        elemento card que se está mostrando. Luego, se pasó esta información 
+        al controlador de eventos showModalContent utilizando una función de 
+        flecha que llama a showModalContent con el id correspondiente cuando se 
+        presiona el botón. De esta manera,cada vez que se presiona el botón de un 
+        elemento card, se muestra en la consola el id correspondiente. Puedes adaptar 
+        este ejemplo a tus necesidades específicas para mostrar cualquier otra 
+        información relevante en la consola o en cualquier otro lugar de tu 
+        aplicación de React"`,
     },
     {
       id: "2",
       img: haidt_500x450,
       title: "J. Haidt",
       content:
-        "A balance transfer credit card can save you a lot of money in interest charges.",
+        `"Haidit dijo que la felicidad es una locura  En este ejemplo, 
+        se modificó la función showModalContent para que reciba el id del 
+        elemento card que se está mostrando. Luego, se pasó esta información 
+        al controlador de eventos showModalContent utilizando una función de 
+        flecha que llama a showModalContent con el id correspondiente cuando se 
+        presiona el botón. De esta manera,cada vez que se presiona el botón de un 
+        elemento card, se muestra en la consola el id correspondiente. Puedes adaptar 
+        este ejemplo a tus necesidades específicas para mostrar cualquier otra 
+        información relevante en la consola o en cualquier otro lugar de tu 
+        aplicación de React"`,
     },
     {
       id: "3",
       img: aristoteles_500x450,
       title: "Aristoteles",
       content:
-        "A balance transfer credit card can save you a lot of money in interest charges.",
+        `"Aristoteles dijo que la felicidad es una locura  En este ejemplo, 
+        se modificó la función showModalContent para que reciba el id del 
+        elemento card que se está mostrando. Luego, se pasó esta información 
+        al controlador de eventos showModalContent utilizando una función de 
+        flecha que llama a showModalContent con el id correspondiente cuando se 
+        presiona el botón. De esta manera,cada vez que se presiona el botón de un 
+        elemento card, se muestra en la consola el id correspondiente. Puedes adaptar 
+        este ejemplo a tus necesidades específicas para mostrar cualquier otra 
+        información relevante en la consola o en cualquier otro lugar de tu 
+        aplicación de React"`,
     },
   ];
 
