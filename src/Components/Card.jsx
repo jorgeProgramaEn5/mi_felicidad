@@ -1,5 +1,7 @@
 // import Card from 'react-bootstrap/Card';
 // import ListGroup from 'react-bootstrap/ListGroup';
+import Button from 'react-bootstrap/Button';
+
 
 // function KitchenSinkExample({ images, title }) {
 //   return (
@@ -29,7 +31,7 @@
 
 import '../styles/Card.css'
 
-function KitchenSinkExample({ images, title }) {
+function KitchenSinkExample({ images, title, showModalContent }) {
   return (
     <div className='card text-center card_container'>
           <div className='contain__img'>
@@ -43,7 +45,7 @@ function KitchenSinkExample({ images, title }) {
                 delectus, ut quas sequi soluta pariatur.
             </p>
             <div className="d-grid gap-2 col-8 mx-auto">
-              <a href="#!" className="btn btn-primary" type="button">Button</a>
+              <Button onClick={showModalContent} className="btn btn-primary" type="button">Button</Button>
             </div>
         </div>
     </div>
