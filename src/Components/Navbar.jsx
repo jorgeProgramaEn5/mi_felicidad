@@ -22,7 +22,7 @@ function NavScrollExample({searchValue, handleSearchChange  }) {
             navbarScroll
           >
             <Nav.Link href="#action1">Home</Nav.Link>
-            <Nav.Link href="#action2">Link</Nav.Link>
+            {/* <Nav.Link href="#action2">Link</Nav.Link> */}
             {/* <NavDropdown title="Link" id="navbarScrollingDropdown">
               <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action4">
@@ -46,7 +46,7 @@ function NavScrollExample({searchValue, handleSearchChange  }) {
               // defaultValue={searchValue}
               onChange={handleSearchChange}
             />
-            <Button variant="outline-success">Search</Button>
+            <Button variant="secondary">Search</Button>
           </Form>
         </Navbar.Collapse>
       </Container>

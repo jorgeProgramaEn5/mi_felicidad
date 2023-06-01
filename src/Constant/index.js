@@ -28,80 +28,62 @@ export const banner = [
       img: socrates_500x450,
       title: "Socrates",
       contentResumen:
-        `"Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-          Natus nulla commodi ae mollitia eligendi dicta consequuntur 
-          delectus, ut quas sequi soluta pariatur."`,
+        `"Es el resultado de una vida virtuosa y sabia. La ignorancia es la causa mayor
+        de infelicidad"`,
       content:
-        `"Socrates dijo que la felicidad es una locura  En este ejemplo, 
-        se modificó la función showModalContent para que reciba el id del 
-        elemento card que se está mostrando. Luego, se pasó esta información 
-        al controlador de eventos showModalContent utilizando una función de 
-        flecha que llama a showModalContent con el id correspondiente cuando se 
-        presiona el botón. De esta manera,cada vez que se presiona el botón de un 
-        elemento card, se muestra en la consola el id correspondiente. Puedes adaptar 
-        este ejemplo a tus necesidades específicas para mostrar cualquier otra 
-        información relevante en la consola o en cualquier otro lugar de tu 
-        aplicación de React"`,
+        `"Es el resultado de una vida virtuosa y sabia. La ignorancia es la causa 
+        de la infelicidad y la búsqueda de la verdad es esencial. La virtud, 
+        la cual se puede cultivar a través de la práctica y la reflexión es tambien muy 
+        necesaria para alcanzar la felicidad."`,
     },
     {
       id: "1",
       img: pinker_500x450,
       title: "Steven Pinker",
       contentResumen:
-        `"Lorem ipsu dolor sit, amet consectetur adipisicing elit. 
-          Natus nulla commodi ae mollitia eligendi dicta consequuntur 
-          delectus, ut quas sequi soluta pariatur."`,
+        `"Es un estado subjetivo de satisfacción con la vida, influenciada por 
+            factores biológicos, culturales y sociales"`,
       content:
-        `"Pinker dijo que la felicidad es una locura  En este ejemplo, 
-        se modificó la función showModalContent para que reciba el id del 
-        elemento card que se está mostrando. Luego, se pasó esta información 
-        al controlador de eventos showModalContent utilizando una función de 
-        flecha que llama a showModalContent con el id correspondiente cuando se 
-        presiona el botón. De esta manera,cada vez que se presiona el botón de un 
-        elemento card, se muestra en la consola el id correspondiente. Puedes adaptar 
-        este ejemplo a tus necesidades específicas para mostrar cualquier otra 
-        información relevante en la consola o en cualquier otro lugar de tu 
-        aplicación de React"`,
+        `"Es un estado subjetivo de satisfacción con la vida. Está influenciada por 
+        factores biológicos, culturales y sociales, y puede 
+        ser medida a través de la autoevaluación y la comparación con los demás. La felicidad 
+        se puede mejorar a través de la educación, el desarrollo 
+        económico y la reducción de la violencia y la opresión, y la tecnología y la 
+        ciencia pueden contribuir a la felicidad humana. La felicidad 
+        es un objetivo deseable y alcanzable que puede ser mejorado a través de factores 
+        externos e internos."`,
     },
     {
       id: "2",
       img: haidt_500x450,
       title: "J. Haidt",
       contentResumen:
-        `"Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-          Natus nulla commodi ae mollitia eligendi dicta consequuntur 
-          delectus, ut quas sequi soluta pariatur."`,
+        `"La felicidad es una combinación de satisfacción, significado y placer. Es un estado 
+          de bienestar integral "`,
       content:
-        `"Haidit dijo que la felicidad es una locura  En este ejemplo, 
-        se modificó la función showModalContent para que reciba el id del 
-        elemento card que se está mostrando. Luego, se pasó esta información 
-        al controlador de eventos showModalContent utilizando una función de 
-        flecha que llama a showModalContent con el id correspondiente cuando se 
-        presiona el botón. De esta manera,cada vez que se presiona el botón de un 
-        elemento card, se muestra en la consola el id correspondiente. Puedes adaptar 
-        este ejemplo a tus necesidades específicas para mostrar cualquier otra 
-        información relevante en la consola o en cualquier otro lugar de tu 
-        aplicación de React"`,
+        `"Es una combinación de satisfacción, significado y placer. Creo que la satisfacción 
+        proviene de la realización de metas a largo plazo. El significado se encuentra en las 
+        conexiones sociales y el propósito en la vida, y el placer se relaciona con las experiencias 
+        positivas del momento presente presente. También la felicidad se ve afectada por 
+        factores culturales y que se puede cultivar a través de la práctica de la gratitud, la atención 
+        plena y la bondad amorosa. Es un estado de bienestar integral 
+        que se puede alcanzar a través de una combinación de factores internos y externos."`,
     },
     {
       id: "3",
       img: aristoteles_500x450,
       title: "Aristoteles",
       contentResumen:
-        `"Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-          Natus nulla commodi ae mollitia eligendi dicta consequuntur 
-          delectus, ut quas sequi soluta pariatur."`,
+        `"La felicidad no es una emoción o un estado temporal, sino el resultado de una 
+          vida completa y bien vivida"`,
       content:
-        `"Aristoteles dijo que la felicidad es una locura  En este ejemplo, 
-        se modificó la función showModalContent para que reciba el id del 
-        elemento card que se está mostrando. Luego, se pasó esta información 
-        al controlador de eventos showModalContent utilizando una función de 
-        flecha que llama a showModalContent con el id correspondiente cuando se 
-        presiona el botón. De esta manera,cada vez que se presiona el botón de un 
-        elemento card, se muestra en la consola el id correspondiente. Puedes adaptar 
-        este ejemplo a tus necesidades específicas para mostrar cualquier otra 
-        información relevante en la consola o en cualquier otro lugar de tu 
-        aplicación de React"`,
+        `"No es una emoción o un estado temporal, sino el resultado de una vida completa y 
+        bien vivida. Creo que todos los seres humanos tienen un propósito y que la felicidad 
+        se alcanza cuando vivimos de acuerdo con nuestras virtudes y valores, y alcanzamos 
+        nuestro máximo potencial. La felicidad se logra a través de la práctica constante de 
+        la virtud y la razón, y no se encuentra en el placer o la riqueza.
+        Es el fin último de la vida y es el objetivo más importante que podemos perseguir como 
+        seres humanos."`,
     },
   ];
 
