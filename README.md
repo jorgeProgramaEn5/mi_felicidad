@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# What do philosophers say about happiness?
+
+![home page](https://github.com/jorgeProgramaEn5/mi_felicidad/blob/main/linepage.jpg)
+
+Reemplaza "Texto alternativo" con un breve texto descriptivo de la imagen, y "ruta/a/la/imagen.jpg" con la URL de la imagen que copiaste en el paso anterior.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
